@@ -1,6 +1,16 @@
 Unicorn Engine
 ==============
 
+# Unicorn-Engine-Documentation
+Official Unicorn CPU emulator framework API documentation
+
+[Chinese](https://github.com/kabeor/Unicorn-Engine-Documentation/blob/master/Unicorn-Engine%20Documentation.md)
+
+English (#TODO)
+
+[PDF](https://github.com/kabeor/Unicorn-Engine-Documentation/releases)
+
+
 [![Join the chat at https://gitter.im/unicorn-engine/chat](https://badges.gitter.im/unicorn-engine/unicorn.svg)](https://gitter.im/unicorn-engine/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/unicorn-engine/unicorn.svg?branch=master)](https://travis-ci.org/unicorn-engine/unicorn)
 [![pypi downloads](https://pepy.tech/badge/unicorn)](https://pepy.tech/project/unicorn)
